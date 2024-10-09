@@ -2,27 +2,12 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-10-09T14:27:12 IST" name="Suite" finished-at="2024-10-09T14:27:44 IST" duration-ms="32325">
+  <suite started-at="2024-10-09T15:53:25 IST" name="Suite" finished-at="2024-10-09T15:53:58 IST" duration-ms="32006">
     <groups>
     </groups>
-    <test started-at="2024-10-09T14:27:12 IST" name="Test1" finished-at="2024-10-09T14:27:36 IST" duration-ms="23591">
+    <test started-at="2024-10-09T15:53:25 IST" name="Test3" finished-at="2024-10-09T15:53:48 IST" duration-ms="22406">
       <class name="org.snapshot.amazon.CrossBrowser_DockerTest">
-        <test-method signature="browserTest(java.lang.String)[pri:0, instance:org.snapshot.amazon.CrossBrowser_DockerTest@3c407114]" started-at="2024-10-09T14:27:12 IST" name="browserTest" finished-at="2024-10-09T14:27:36 IST" duration-ms="23500" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- browserTest -->
-      </class> <!-- org.snapshot.amazon.CrossBrowser_DockerTest -->
-    </test> <!-- Test1 -->
-    <test started-at="2024-10-09T14:27:12 IST" name="Test3" finished-at="2024-10-09T14:27:40 IST" duration-ms="28113">
-      <class name="org.snapshot.amazon.CrossBrowser_DockerTest">
-        <test-method signature="browserTest(java.lang.String)[pri:0, instance:org.snapshot.amazon.CrossBrowser_DockerTest@dd8ba08]" started-at="2024-10-09T14:27:12 IST" name="browserTest" finished-at="2024-10-09T14:27:40 IST" duration-ms="28041" status="PASS">
+        <test-method signature="browserTest(java.lang.String)[pri:0, instance:org.snapshot.amazon.CrossBrowser_DockerTest@dd8ba08]" started-at="2024-10-09T15:53:26 IST" name="browserTest" finished-at="2024-10-09T15:53:48 IST" duration-ms="22305" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -35,9 +20,24 @@
         </test-method> <!-- browserTest -->
       </class> <!-- org.snapshot.amazon.CrossBrowser_DockerTest -->
     </test> <!-- Test3 -->
-    <test started-at="2024-10-09T14:27:12 IST" name="Test2" finished-at="2024-10-09T14:27:44 IST" duration-ms="32325">
+    <test started-at="2024-10-09T15:53:25 IST" name="Test1" finished-at="2024-10-09T15:53:52 IST" duration-ms="26011">
       <class name="org.snapshot.amazon.CrossBrowser_DockerTest">
-        <test-method signature="browserTest(java.lang.String)[pri:0, instance:org.snapshot.amazon.CrossBrowser_DockerTest@2a798d51]" started-at="2024-10-09T14:27:12 IST" name="browserTest" finished-at="2024-10-09T14:27:44 IST" duration-ms="32255" status="PASS">
+        <test-method signature="browserTest(java.lang.String)[pri:0, instance:org.snapshot.amazon.CrossBrowser_DockerTest@3c407114]" started-at="2024-10-09T15:53:26 IST" name="browserTest" finished-at="2024-10-09T15:53:52 IST" duration-ms="25921" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserTest -->
+      </class> <!-- org.snapshot.amazon.CrossBrowser_DockerTest -->
+    </test> <!-- Test1 -->
+    <test started-at="2024-10-09T15:53:25 IST" name="Test2" finished-at="2024-10-09T15:53:58 IST" duration-ms="32006">
+      <class name="org.snapshot.amazon.CrossBrowser_DockerTest">
+        <test-method signature="browserTest(java.lang.String)[pri:0, instance:org.snapshot.amazon.CrossBrowser_DockerTest@2a798d51]" started-at="2024-10-09T15:53:26 IST" name="browserTest" finished-at="2024-10-09T15:53:57 IST" duration-ms="31914" status="PASS">
           <params>
             <param index="0">
               <value>
