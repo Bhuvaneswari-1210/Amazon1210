@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-10-09T15:53:25 IST" name="Suite" finished-at="2024-10-09T15:53:58 IST" duration-ms="32006">
+  <suite started-at="2024-10-09T20:01:48 IST" name="Suite" finished-at="2024-10-09T20:02:16 IST" duration-ms="28200">
     <groups>
     </groups>
-    <test started-at="2024-10-09T15:53:25 IST" name="Test3" finished-at="2024-10-09T15:53:48 IST" duration-ms="22406">
+    <test started-at="2024-10-09T20:01:48 IST" name="Test3" finished-at="2024-10-09T20:02:09 IST" duration-ms="20967">
       <class name="org.snapshot.amazon.CrossBrowser_DockerTest">
-        <test-method signature="browserTest(java.lang.String)[pri:0, instance:org.snapshot.amazon.CrossBrowser_DockerTest@dd8ba08]" started-at="2024-10-09T15:53:26 IST" name="browserTest" finished-at="2024-10-09T15:53:48 IST" duration-ms="22305" status="PASS">
+        <test-method signature="browserTest(java.lang.String)[pri:0, instance:org.snapshot.amazon.CrossBrowser_DockerTest@37afeb11]" started-at="2024-10-09T20:01:48 IST" name="browserTest" finished-at="2024-10-09T20:02:09 IST" duration-ms="20887" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -20,9 +20,9 @@
         </test-method> <!-- browserTest -->
       </class> <!-- org.snapshot.amazon.CrossBrowser_DockerTest -->
     </test> <!-- Test3 -->
-    <test started-at="2024-10-09T15:53:25 IST" name="Test1" finished-at="2024-10-09T15:53:52 IST" duration-ms="26011">
+    <test started-at="2024-10-09T20:01:48 IST" name="Test1" finished-at="2024-10-09T20:02:10 IST" duration-ms="22142">
       <class name="org.snapshot.amazon.CrossBrowser_DockerTest">
-        <test-method signature="browserTest(java.lang.String)[pri:0, instance:org.snapshot.amazon.CrossBrowser_DockerTest@3c407114]" started-at="2024-10-09T15:53:26 IST" name="browserTest" finished-at="2024-10-09T15:53:52 IST" duration-ms="25921" status="PASS">
+        <test-method signature="browserTest(java.lang.String)[pri:0, instance:org.snapshot.amazon.CrossBrowser_DockerTest@647e447]" started-at="2024-10-09T20:01:48 IST" name="browserTest" finished-at="2024-10-09T20:02:10 IST" duration-ms="22082" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -35,9 +35,9 @@
         </test-method> <!-- browserTest -->
       </class> <!-- org.snapshot.amazon.CrossBrowser_DockerTest -->
     </test> <!-- Test1 -->
-    <test started-at="2024-10-09T15:53:25 IST" name="Test2" finished-at="2024-10-09T15:53:58 IST" duration-ms="32006">
+    <test started-at="2024-10-09T20:01:48 IST" name="Test2" finished-at="2024-10-09T20:02:16 IST" duration-ms="28200">
       <class name="org.snapshot.amazon.CrossBrowser_DockerTest">
-        <test-method signature="browserTest(java.lang.String)[pri:0, instance:org.snapshot.amazon.CrossBrowser_DockerTest@2a798d51]" started-at="2024-10-09T15:53:26 IST" name="browserTest" finished-at="2024-10-09T15:53:57 IST" duration-ms="31914" status="PASS">
+        <test-method signature="browserTest(java.lang.String)[pri:0, instance:org.snapshot.amazon.CrossBrowser_DockerTest@6572421]" started-at="2024-10-09T20:01:48 IST" name="browserTest" finished-at="2024-10-09T20:02:16 IST" duration-ms="28142" status="PASS">
           <params>
             <param index="0">
               <value>
