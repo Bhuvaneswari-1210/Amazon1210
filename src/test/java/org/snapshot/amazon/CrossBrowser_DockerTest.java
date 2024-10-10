@@ -13,7 +13,7 @@ public class CrossBrowser_DockerTest {
     WebDriver driver;
     @Test
     @Parameters({"bname"})
-    public void browserTest(@Optional("chrome") String bname) throws MalformedURLException, InterruptedException
+    public void browserTest(String bname) throws MalformedURLException, InterruptedException
     {
     	if(bname.equalsIgnoreCase("chrome"))
     	{
